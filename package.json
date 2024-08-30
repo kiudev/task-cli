@@ -1,0 +1,20 @@
+{
+  "name": "task-cli",
+  "version": "1.0.0",
+  "main": "task-cli.js",
+  "scripts": {
+    "start": "node task-cli.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@types/node": "^22.5.1",
+    "standard": "^17.1.0"
+  },
+  "type": "module",
+  "dependencies": {
+    "picocolors": "^1.0.1"
+  }
+}
